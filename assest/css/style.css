@@ -1,0 +1,31 @@
+body { 
+    font-family: "Open Sans", sans-serif;
+    
+   } 
+
+ 
+.contacto {
+    display: flex; 
+    align-items: center; 
+}
+
+.educacion{
+    display: flex; 
+    align-items: center; 
+}
+
+.experiencia{
+    display: flex; 
+    align-items: center; 
+}
+
+.objetivo{
+    display: flex; 
+    align-items: center; 
+}
+
+.conocimiento{
+    display: flex; 
+    align-items: center;     
+}
+
